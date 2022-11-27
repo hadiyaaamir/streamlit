@@ -1,8 +1,6 @@
 # coding: utf-8 -*-
 
 from summa.summarizer import summarize
-from transformers import AutoTokenizer, AutoModelForSeq2SeqLM
-import re
 
 from spacy.lang.ur.stop_words import STOP_WORDS 
 from collections import Counter
