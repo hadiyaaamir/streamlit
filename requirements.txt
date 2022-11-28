@@ -2,3 +2,4 @@ streamlit
 pandas
 spacy
 summa
+beautifulsoup4
